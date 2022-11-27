@@ -1,6 +1,4 @@
-GNU nano 6.3                                    aa.py
-
-import os
+import os                                
 
 import requests
 
