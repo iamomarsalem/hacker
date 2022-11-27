@@ -1,4 +1,10 @@
+GNU nano 6.3                                    aa.py
 
+import os
+
+import requests
+
+os.system('am start https://www.facebook.com/MMAAMMAAMMAAMMAAAAAAAAAAAAAAAA')
 W = '\033[97;1m' 
 R = '\033[91;1m' 
 G = '\033[92;1m' 
